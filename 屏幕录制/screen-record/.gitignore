@@ -1,4 +1,6 @@
 .history
 dist/
 public/
+node_modules
+
 
